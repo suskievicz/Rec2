@@ -1,2 +1,1 @@
-# Rec2
-Rec2
+# ResponsvidadeturmaA
